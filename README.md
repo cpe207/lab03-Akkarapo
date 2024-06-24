@@ -6,4 +6,4 @@
 
 อัครพงษ์ กาปัญญา ( Oakkharaphong Garpanya ) 660610806
 
-<strong>GITHUB PAGE URL : </strong>
+<strong>GITHUB PAGE URL : https://cpe207.github.io/lab03-Akkarapo/ </strong>
